@@ -54,15 +54,15 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sonu InSiDe❤️</title>
+  <title>Soni InSiDe❤️</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
       background-color: purple;
     }
     .container{
-      max-width: 500px;
-      background-color: turquoise;
+      max-width: 600px;
+      background-color: pink;
       border-radius: 10px;
       padding: 20px;
       box-shadow: 0 0 10px rgba(red, green, blue, alpha);
@@ -87,9 +87,9 @@ def send_message():
 <body>
   <header class="header mt-4">
     <h1 class="mb-3" style="color: yellow;"> 🖤" __[ WELCOME TO WEB 🩷 :D <(")
-          <h1 class="mb-3" style="color: red;">  MADE BY SONU 
+          <h1 class="mb-3" style="color: red;">  MADE BY SONI 
     >3:)
-    <h1 class="mb-3" style="color: yellow;">🅾🆆🅽🅴🆁]|I{•------» FEELINGLESS ON FIRE ❤️  </h1>
+    <h1 class="mb-3" style="color: yellow;">🅾🆆🅽🅴🆁]|I{•------» AYUSHII ❤️  </h1>
   </header>
 
   <div class="container">
@@ -130,4 +130,4 @@ def send_message():
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
     app.run(host='0.0.0.0', port=port)
-    app.run(debug=True)
+    app.run(debug=True
